@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -39,7 +39,7 @@ a {
 }
 
 a small {
-  font-size:11px;
+  font-size:12px;
   color:#777;
   margin-top:-0.6em;
   display:block;
@@ -99,7 +99,6 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  zoom: 1.2;
 }
 
 header ul {
@@ -167,7 +166,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:12px;
 }
 
 hr {
