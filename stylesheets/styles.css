@@ -28,6 +28,10 @@ h2 {
   color:#393939;
 }
 
+h3 {
+  padding:20px 0 5px;
+}
+
 h3, h4, h5, h6 {
   color:#494949;
 }
@@ -99,7 +103,6 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  padding:20px 0 5px;
 }
 
 header ul {
